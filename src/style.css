@@ -1,0 +1,4 @@
+html, body, #root, .App, #reader {
+    width: 100%;
+    height: 100%;
+}
