@@ -8,7 +8,7 @@ class App extends Component {
         return (
             <div className="App">
                 <Navbar />
-                <PDFReader backend={PDFJS} src='/myPDF.pdf' />
+                <PDFReader backend={PDFJS} src='/worksheet.pdf' />
             </div>
         )
     }
