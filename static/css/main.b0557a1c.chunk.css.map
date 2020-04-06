@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,mCACI,UAAW,CACX,WACJ,CAEA,MACI,SAAU,CACV,iBACJ","file":"main.b0557a1c.chunk.css","sourcesContent":["html, body, #root, .container, #reader {\n    width: 100%;\n    height: 100%;\n}\n\n#logo {\n    width: 20%;\n    margin-right: 10px;\n}"]}
