@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cnci_pdfreader/static/css/main.b0557a1c.chunk.css",
-    "main.js": "/cnci_pdfreader/static/js/main.f2545a4d.chunk.js",
-    "main.js.map": "/cnci_pdfreader/static/js/main.f2545a4d.chunk.js.map",
+    "main.js": "/cnci_pdfreader/static/js/main.4db197a4.chunk.js",
+    "main.js.map": "/cnci_pdfreader/static/js/main.4db197a4.chunk.js.map",
     "runtime-main.js": "/cnci_pdfreader/static/js/runtime-main.5d829d34.js",
     "runtime-main.js.map": "/cnci_pdfreader/static/js/runtime-main.5d829d34.js.map",
     "static/js/2.76cefe70.chunk.js": "/cnci_pdfreader/static/js/2.76cefe70.chunk.js",
     "static/js/2.76cefe70.chunk.js.map": "/cnci_pdfreader/static/js/2.76cefe70.chunk.js.map",
     "index.html": "/cnci_pdfreader/index.html",
-    "precache-manifest.09186654c5477f0b46830efe6cddc561.js": "/cnci_pdfreader/precache-manifest.09186654c5477f0b46830efe6cddc561.js",
+    "precache-manifest.662a3b052ab3c2ba56fdd9cd2391e7d4.js": "/cnci_pdfreader/precache-manifest.662a3b052ab3c2ba56fdd9cd2391e7d4.js",
     "service-worker.js": "/cnci_pdfreader/service-worker.js",
     "static/css/main.b0557a1c.chunk.css.map": "/cnci_pdfreader/static/css/main.b0557a1c.chunk.css.map",
     "static/js/2.76cefe70.chunk.js.LICENSE.txt": "/cnci_pdfreader/static/js/2.76cefe70.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5d829d34.js",
     "static/js/2.76cefe70.chunk.js",
     "static/css/main.b0557a1c.chunk.css",
-    "static/js/main.f2545a4d.chunk.js"
+    "static/js/main.4db197a4.chunk.js"
   ]
 }

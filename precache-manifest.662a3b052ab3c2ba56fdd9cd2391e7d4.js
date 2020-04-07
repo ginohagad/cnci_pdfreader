@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "281b2714c57c023a47aa8eaaed6e7a62",
+    "revision": "2b1b429e960e9216389ee5b058879f0d",
     "url": "/cnci_pdfreader/index.html"
   },
   {
-    "revision": "f2a8fa602f0bf93e9561",
+    "revision": "f57a2334980320ab371d",
     "url": "/cnci_pdfreader/static/css/main.b0557a1c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cnci_pdfreader/static/js/2.76cefe70.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f2a8fa602f0bf93e9561",
-    "url": "/cnci_pdfreader/static/js/main.f2545a4d.chunk.js"
+    "revision": "f57a2334980320ab371d",
+    "url": "/cnci_pdfreader/static/js/main.4db197a4.chunk.js"
   },
   {
     "revision": "4a8be7dac0f2efa11268",
