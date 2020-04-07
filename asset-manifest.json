@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/cnci_pdfreader/static/css/main.b0557a1c.chunk.css",
-    "main.js": "/cnci_pdfreader/static/js/main.4db197a4.chunk.js",
-    "main.js.map": "/cnci_pdfreader/static/js/main.4db197a4.chunk.js.map",
+    "main.js": "/cnci_pdfreader/static/js/main.e0f5f7ef.chunk.js",
+    "main.js.map": "/cnci_pdfreader/static/js/main.e0f5f7ef.chunk.js.map",
     "runtime-main.js": "/cnci_pdfreader/static/js/runtime-main.5d829d34.js",
     "runtime-main.js.map": "/cnci_pdfreader/static/js/runtime-main.5d829d34.js.map",
-    "static/js/2.76cefe70.chunk.js": "/cnci_pdfreader/static/js/2.76cefe70.chunk.js",
-    "static/js/2.76cefe70.chunk.js.map": "/cnci_pdfreader/static/js/2.76cefe70.chunk.js.map",
+    "static/js/2.953e4dc1.chunk.js": "/cnci_pdfreader/static/js/2.953e4dc1.chunk.js",
+    "static/js/2.953e4dc1.chunk.js.map": "/cnci_pdfreader/static/js/2.953e4dc1.chunk.js.map",
     "index.html": "/cnci_pdfreader/index.html",
-    "precache-manifest.662a3b052ab3c2ba56fdd9cd2391e7d4.js": "/cnci_pdfreader/precache-manifest.662a3b052ab3c2ba56fdd9cd2391e7d4.js",
+    "precache-manifest.4e1d29b72c462171530df23f54c86d29.js": "/cnci_pdfreader/precache-manifest.4e1d29b72c462171530df23f54c86d29.js",
     "service-worker.js": "/cnci_pdfreader/service-worker.js",
     "static/css/main.b0557a1c.chunk.css.map": "/cnci_pdfreader/static/css/main.b0557a1c.chunk.css.map",
-    "static/js/2.76cefe70.chunk.js.LICENSE.txt": "/cnci_pdfreader/static/js/2.76cefe70.chunk.js.LICENSE.txt"
+    "static/js/2.953e4dc1.chunk.js.LICENSE.txt": "/cnci_pdfreader/static/js/2.953e4dc1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5d829d34.js",
-    "static/js/2.76cefe70.chunk.js",
+    "static/js/2.953e4dc1.chunk.js",
     "static/css/main.b0557a1c.chunk.css",
-    "static/js/main.4db197a4.chunk.js"
+    "static/js/main.e0f5f7ef.chunk.js"
   ]
 }
