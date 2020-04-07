@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cnci_pdfreader/precache-manifest.6c9e7a1deca3168cdbe61e6c5c3fce13.js"
+  "/cnci_pdfreader/precache-manifest.09186654c5477f0b46830efe6cddc561.js"
 );
 
 self.addEventListener('message', (event) => {
